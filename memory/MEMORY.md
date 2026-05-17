@@ -1,0 +1,4 @@
+- [Anti-template caboose rules](feedback_anti_template_caboose.md) — 6 sentence-level rules to avoid explanatory postscripts in creative prose
+- [Constraint sculpting principle](feedback_constraint_sculpting.md) — quality of my creative output bounded by user's constraint precision, not "creativity"
+- [Collaboration model](feedback_collaboration_model.md) — AI = treatment→비트→shot decomposition only; voice/cognition/dialog stay with writer; codex unnecessary if treatment carries voice anchors
+- [Channel identity](project_channel_identity.md) — content brand: SF + fable + contemporary satire + brutality; per-work treatments, no shared codex
