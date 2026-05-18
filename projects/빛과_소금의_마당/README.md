@@ -13,16 +13,19 @@
 | 파일 | 내용 |
 |---|---|
 | `00_meta.md` | 14층 commits, 시점·인물·기적 결정 |
-| `01_treatment.md` | 1차 rough treatment (작가 원문) |
-| `02_outline.md` | 26 비트 정밀화 outline |
-| `03_scenario.md` | shot-level 시나리오 |
+| `01_treatment.md` | 1차 rough treatment (작가 원문) + v2 정밀화 메모 |
+| `02_outline.md` | 29 비트 정밀화 outline (B0~B26 + 신규 B6.5·B6.7·B6.9) |
+| `03_scenario.md` | shot-level 시나리오 (145 shot, v6 fresh redesign) |
+| `04_visual_design.md` | 시각 디자인 시스템 (행성·함선·심장부·사람·결정·색·화부·인부·엔지니어·노조·유튜버) |
+| `05_writer_todo.md` | **작가 작업 자리 인덱스** — 대사 확장·시각 미정·최종 cut 자리 |
 
 ## 현재 상태
 
-- ✅ Treatment 1차
-- ✅ Outline 26 비트
-- 🟡 Scenario shot-level — Acts 1~2 완료, Acts 3~5 진행 예정
-- ⏳ 시점·인물·기적 final commit
+- ✅ Treatment 1차 + v2 정밀화 메모
+- ✅ Outline 29 비트 (B0 콜드 오픈 + B6.5·B6.7·B6.9 신규)
+- ✅ Scenario shot-level — Acts 1~5 전체 145 shots (v6 fresh redesign, 2026-05-18)
+- ✅ Visual design 1차 잠금 (2026-05-18)
+- ⏳ 작가 대사·헤드라인 확장 (05_writer_todo.md)
 - ⏳ Prose draft (작가 직접)
 
 ## 작업 메모
